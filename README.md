@@ -1,9 +1,9 @@
 <div align="center">
 	<h1>text-to-time</h1>
-   <a href="https://www.npmjs.com/package/@ifraan_/text-to-time"><img src="https://badgen.net/npm/v/@ifraan_/text-to-time?color=red" alt="NPM-Version"/></a>
-   <a href="https://www.npmjs.com/package/@ifraan_/text-to-time"><img src="https://badgen.net/npm/dt/@ifraan_/text-to-time?color=red" alt="NPM-Downloads"/></a>
-   <a href="https://github.com/iFraan/text-to-time"><img src="https://badgen.net/github/stars/iFraan/text-to-time?color=green" alt="Github Stars"/></a>
-   <a href="https://github.com/iFraan/text-to-time/issues"><img src="https://badgen.net/github/issues/iFraan/text-to-time?color=green" alt="Issues"/></a>
+   <a href="https://github.com/iFraan/text-to-time/packages/1526166"><img src="https://badgen.net/github/tag/iFraan/text-to-time?color=green" alt="Github-Package"/></a>
+   <a href="https://www.npmjs.com/package/@ifraan_/text-to-time"><img src="https://badgen.net/github/last-commit/iFraan/text-to-time?color=blue" alt="Last Commit"/></a>
+   <a href="https://github.com/iFraan/text-to-time"><img src="https://badgen.net/github/stars/iFraan/text-to-time?color=blue" alt="Github Stars"/></a>
+   <a href="https://github.com/iFraan/text-to-time/issues"><img src="https://badgen.net/github/issues/iFraan/text-to-time?color=yellow" alt="Issues"/></a>
 </div>
 
 ## The soul purpose of this fork its to translate the 'free form text' to spanish. 
@@ -16,7 +16,7 @@ moment moment-timezone words-to-numbers
 
 To install use:
 ```shell
-npm i @ifraan_/text-to-time
+npm install @ifraan/text-to-time@1.0.0
 ```
 
 Example code
