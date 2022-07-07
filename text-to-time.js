@@ -80,7 +80,8 @@ class textToTime {
                 callback(undefined, {
                     now: _now,
                     timeZone: _timeZone, 
-                    timestamp: result
+                    timestamp: result,
+                    past: _now >= result 
                 });
             }
         });
